@@ -1,12 +1,16 @@
-<!DOCTYPE html PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<HTML>
-   <HEAD>
-      <TITLE>
-         A Small Hello 
-      </TITLE>
-   </HEAD>
-<BODY>
-   <H1>Hi</H1>
-   <P>This is very minimal "hello world hello world hello world..........Hello world" HTML document.</P> 
-</BODY>
-</HTML>
+<html> 
+
+<head>
+<title>
+A Simple HTML Document
+</title>
+</head>
+
+
+<body>
+<p>This is a very simple HTML document</p>
+<p>It only has two paragraphs</p>
+</body>
+
+
+</html>
